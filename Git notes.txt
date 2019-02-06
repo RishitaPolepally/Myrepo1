@@ -1,0 +1,20 @@
+Clone- The directory which you created in the application will be clone inti your system folder.
+Git pull- it will pull all the files in the application into your folder which are updated
+Git push- It will push changes which you have into git hub.
+Get Commit- It will lock the code in the repository
+Git add <file name>--> if you made any changes in the folder you can add them to the application.
+Get commit -m "text"--> it will commit with the messages for changing
+Git add -A--> will add the all the files in your system to application
+Git status- you will get the status of the file changes which has ti be pushed or committed.
+Esc:wq--> will make changes to the master file
+Cls: for clear screen 
+
+
+Commands:
+
+$ git init-initializing the folder
+linking the github to git
+$ git remote add origin "https://github.com/RishitaPolepally/Myrepo1.git"
+
+Pulls the repository files to the local folder
+$ git pull origin master
